@@ -1,7 +1,5 @@
 ## Books by Jeff Leek
 
-</br> </br>
-
 ### How to be a modern scientist
 
 
